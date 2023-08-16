@@ -11,5 +11,5 @@ My go-to tools are:
 Some of my portfolio includes:
 * Implementation of ingesting new data into production. Working with Engineering team to implement correct intention of 'Offers HICAPS' flag on website
   * Importing, matching and homogenising data via python in order to display on-site prompts.
-[test](https://i.ibb.co/4jb6SBP/ezgif-1-6068fc8a9a.gif)
+![](https://i.ibb.co/4jb6SBP/ezgif-1-6068fc8a9a.gif)
 
