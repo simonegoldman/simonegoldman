@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋 I'm Simone
 
-<!--
-**simonegoldman/simonegoldman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy uncovering insights from data and translating that into meaningful summmary for companies to assist with decision-making.
+I'm passionate UX and implementing thougthful and practical features that harnesses products full potential
 
-Here are some ideas to get you started:
+My go-to tools are:
+* Google's Data Studio or Tableau for data viz
+* Python for all things automation
+* Jira & Confluence for project management and docs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some of my portfolio includes:
+* Implementation of ingesting new data into production. Working with Engineering team to implement correct intention of 'Offers HICAPS' flag on website
+  * Importing, matching and homogenising data via python in order to display on-site prompts.
+[test](https://i.ibb.co/4jb6SBP/ezgif-1-6068fc8a9a.gif)
+
