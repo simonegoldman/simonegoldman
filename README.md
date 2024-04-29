@@ -13,3 +13,7 @@ Some of my portfolio includes:
   * Importing, matching and homogenising data via python in order to display on-site prompts.
 ![](https://i.ibb.co/4jb6SBP/ezgif-1-6068fc8a9a.gif)
 
+
+* Data lineage
+![](https://i.ibb.co/dPk5Bnp/lineage-gif.gif)
+
