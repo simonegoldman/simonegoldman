@@ -14,6 +14,9 @@ Some of my portfolio includes:
 ![](https://i.ibb.co/4jb6SBP/ezgif-1-6068fc8a9a.gif)
 
 
-* Data lineage
-![](https://i.ibb.co/dPk5Bnp/lineage-gif.gif)
+* E2E development, discovery and roll-out of internal data lineage tool to assist with data tracing, impact assessment - Assisting majorly with data transparency and un-obscuring complex code.
+  * The below image is a purpose-built replica solely for demonstration due to data confidentiality.
+![](https://www.imghippo.com/i/DrPzq1714416834.gif)
+
+
 
