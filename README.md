@@ -21,7 +21,7 @@ My go-to tools are:
 ![](https://i.ibb.co/4jb6SBP/ezgif-1-6068fc8a9a.gif)
 
 ### Development in Python to build and implement internal data lineage tool
-* E2E development, discovery and roll-out of internal data lineage tool to assist with data tracing, impact assessment - Assisting hugely with data transparency and clarifying complex code
+* E2E development, discovery and roll-out of internal data lineage tool to assist with data tracing, impact assessment - Assisting hugely with data transparency and clarifying complex code for the wider team
   * The below image is a replica using non-real sample data, built solely for demonstration due to data confidentiality
 ![](https://i.imghippo.com/files/AB1he1714417533.gif)
 
