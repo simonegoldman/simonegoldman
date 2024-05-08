@@ -8,12 +8,12 @@ My go-to tools are:
 * Python for all things automation
 * Jira & Confluence for project management and docs
 
-## Some of my portfolio includes:
+## Some of my project portfolio includes:
 
 ### Building dashboards
 * Preparing and visualising data for ongoing monitoring purposes. Complete end-to-end build from multiple existing datasets, into concise tables for use in self-serve dashboards as well as drill-down capabilities
   * The below image is a purpose-built replica solely for demonstration due to data confidentiality
-![](https://i.imghippo.com/files/AB1he1714417533.gif)
+![](https://i.ibb.co/cTf6mQB/ezgif-4-1e467ac8db.gif)
 
 ### Data preparation and incorporation; back-end 
 * Implementation of ingesting new data into production. Working with Engineering team to implement intended feature of 'Offers HICAPS' flag on website
