@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Simone
 
-I enjoy uncovering insights from data and translating that into meaningful summmary for companies to assist with decision-making.
+I enjoy uncovering insights from data and translating that into meaningful analyses for companies to assist with decision-making.
 I'm passionate UX and implementing thougthful and practical features that harnesses products' full potential
 
 My go-to tools are:
