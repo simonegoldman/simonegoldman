@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Simone
 
 I enjoy uncovering insights from data and translating that into meaningful analyses for companies to assist with decision-making.
-I'm passionate UX and implementing thougthful and practical features that harnesses products' full potential
+I'm passionate about UX and implementing thougthful and practical features that harnesses products' full potential
 
 My go-to tools are:
 * Google's Data Studio or Tableau for data viz
