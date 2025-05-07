@@ -24,3 +24,5 @@ My go-to tools are:
 * E2E development, discovery and roll-out of internal data lineage tool to assist with data tracing, impact assessment - Assisting hugely with data transparency and clarifying complex code for the wider team
   * The below image is a replica using non-real sample data, built solely for demonstration due to data confidentiality
 ![](https://i.ibb.co/PvRDS7YG/lineagegif.gif)
+![](https://postimg.cc/5Xn7n6BD)
+
