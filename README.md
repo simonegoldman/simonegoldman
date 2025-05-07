@@ -13,19 +13,16 @@ My go-to tools are:
 ### Building dashboards
 * Preparing and visualising data for ongoing monitoring purposes. Complete end-to-end build from multiple existing datasets, into concise tables for use in self-serve dashboards as well as drill-down capabilities
   * The below image is a replica using non-real sample data, built solely for demonstration due to data confidentiality
-![](https://i.ibb.co/cTf6mQB/ezgif-4-1e467ac8db.gif)
 ![](assets/dashboards.gif)
 
 
 ### Data preparation and incorporation; back-end 
 * Implementation of ingesting new data into production. Working with Engineering team to implement intended feature of 'Offers HICAPS' flag on website
   * Importing, matching and homogenising data via python in order to display on-site prompts
-![](https://i.ibb.co/4jb6SBP/ezgif-1-6068fc8a9a.gif)
 ![](assets/hshicaps.gif)
 
 ### Development in Python to build and implement internal data lineage tool
 * E2E development, discovery and roll-out of internal data lineage tool to assist with data tracing, impact assessment - Assisting hugely with data transparency and clarifying complex code for the wider team
   * The below image is a replica using non-real sample data, built solely for demonstration due to data confidentiality
-![](https://i.ibb.co/PvRDS7YG/lineagegif.gif)
 ![](assets/lineagegif.gif)
 
