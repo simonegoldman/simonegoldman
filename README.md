@@ -3,8 +3,8 @@
 I enjoy uncovering insights from data and translating that into meaningful analyses for companies to assist with decision-making. I strongly believe data needs to tell a clear story - and to do that, you need robust insights and curious mind. On the visualisation side, I'm passionate about UX and implementing thougthful and practical features that harnesses products' full potential
 
 My go-to tools are:
-* Google's Data Studio or Tableau for data viz
-* Python for all things automation
+* Google's Data Studio, Power BI or Tableau for data viz
+* Python for all things automation, Power-Automate if I'm feeling cheeky
 * Jira & Confluence for project management and docs
 
 ## Some of my project portfolio includes:
