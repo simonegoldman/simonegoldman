@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Simone
 
-I enjoy uncovering insights from data and translating that into meaningful analyses for companies to assist with decision-making.
-I'm passionate about UX and implementing thougthful and practical features that harnesses products' full potential
+I enjoy uncovering insights from data and translating that into meaningful analyses for companies to assist with decision-making. I strongly believe data needs to tell a clear story - and to do that, you need robust insights and curious mind. On the visualisation side, I'm passionate about UX and implementing thougthful and practical features that harnesses products' full potential
 
 My go-to tools are:
 * Google's Data Studio or Tableau for data viz
@@ -10,7 +9,7 @@ My go-to tools are:
 
 ## Some of my project portfolio includes:
 
-### Building dashboards
+### Gathering insights and building informative visualisations
 * Preparing and visualising data for ongoing monitoring purposes. Complete end-to-end build from multiple existing datasets, into concise tables for use in self-serve dashboards as well as drill-down capabilities
   * The below image is a replica using non-real sample data, built solely for demonstration due to data confidentiality
 ![](assets/dashboards.gif)
